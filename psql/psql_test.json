@@ -2,7 +2,7 @@
   "connections" : {
     "test_db" : {
       "host"    : "localhost",
-      "port"    : 5432,
+      "port"    : ":5432",
       "db_name" : "testing",
       "default" : true
     }
